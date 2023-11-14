@@ -1,0 +1,17 @@
+1. Shows new commonsense reasoning works as well as the new question-answering works or dataset
+2. New in-context learning methods for large language model, including its variants from chain of thoughts, tree of thoughts, or graph of thoughts
+3. New works on explainable language model
+   - Relevant: new metrics or methodologies for analyzing rationales, new machine learning techniques, and improvement works on out-of-domain generalization 
+4. Describes new paradigms to evaluating open-ended text generation. Evaluating the outputs of language models is hard, especially in open-ended settings like for chatbots.
+   - Relevant: papers that fundamentally rethink language model evaluation -- especially by accounting for subjectivity or using adversaries.
+   - Not relevant: specific evaluations for specific tasks, identifying new properties or flaws of language models, or simply collecting new data.
+ 5. Conducts surveys or provides data into real-world usage and safety properties of language models.
+    - Relevant: papers that create new datasets or surveys on real-world usage of language models.
+    - Not relevant: papers that apply language models to new real-world tasks.
+ 6. Shows new powerful test set contamination or membership inference methods for language models. Test set contamination is the phenomenon where a language model observes a benchmark dataset during pretraining.
+    - Relevant: test statistics that can detect contamination of benchmarks in language models. statistics that can provide guarantees are more interesting. membership inference methods that are general enough to apply to language models are also relevant.
+    - Not relevant: any papers that do not consider language models, or that do not consider test set contamination.
+    
+ In suggesting papers to your friend, remember that he enjoys papers on statistical machine learning, and generative modeling in natural language processing.
+ Your friend also likes learning about surprising empirical results in language models, as well as clever statistical tricks.
+ He does not want to read papers that are about primarily applications of methods to specific domains.

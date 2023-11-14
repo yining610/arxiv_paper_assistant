@@ -1,0 +1,22 @@
+# Stanford NLP faculty.
+Tatsunori B. Hashimoto, 3056528
+Tatsunori Hashimoto, 2117567142
+Percy Liang, 145419642
+Dan Jurafsky, 1746807
+Christopher D. Manning, 144783904
+Chris Potts, 1741530
+Diyi Yang, 2022168
+Monica Lam, 39682108
+
+# JHU NLP faculty.
+Daniel Khashabi, 1783281
+Benjamin Van Durme, 7536576
+
+# UW NLP faculty.
+Yejin Choi, 1699545
+
+# UNC NLP faculty
+Mohit Bansal, 143977268
+
+# USC NLP faculty.
+Xiang Ren, 145201124
